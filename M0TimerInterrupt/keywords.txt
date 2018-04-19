@@ -1,0 +1,13 @@
+M0TimerInterrupt	KEYWORD1
+
+initTimerGclk	KEYWORD2
+initTC4Int	KEYWORD2
+initTC5Int	KEYWORD2
+begin	KEYWORD2
+attachTC4InterruptMs	KEYWORD2
+attachTC4InterruptS	KEYWORD2
+detachTC4Interrupt	KEYWORD2
+attachTC5InterruptMs	KEYWORD2
+attachTC5InterruptS	KEYWORD2
+detachTC5Interrupt	KEYWORD2
+standby	KEYWORD2
